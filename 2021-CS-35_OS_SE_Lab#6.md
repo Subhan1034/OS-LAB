@@ -69,7 +69,7 @@ echo "maximum is " $maxElement
 
     ​
 
-   ![alt text for screen readers](/Task1output.png)
+   ![alt text for screen readers](Task1output.png)
 
 #### Create a Bash script to find the largest element of a given array of integers.
 
@@ -129,7 +129,7 @@ echo "maximum is " $max
 
    ​
 
-   ![alt text for screen readers](\Task2output.png)
+   ![alt text for screen readers](images/Task2output.png)
 
 ####Create a Bash script to separate 0s and 1s from a given array of values 0 and 1.
 
@@ -192,7 +192,7 @@ echo ${Arr[@]}
 
    ​
 
-   ![alt text for screen readers](Task3output.png)
+   ![alt text for screen readers](images/Task3output.png)
 
 #### Create a Bash script to find the first repeating element in an array of integers.
 
@@ -252,5 +252,5 @@ done
 
    ​
 
-   ![alt text for screen readers](Task1output.png)
+   ![alt text for screen readers](images/Task1output.png)
 
