@@ -69,7 +69,7 @@ echo "maximum is " $maxElement
 
     ​
 
-   ![alt text for screen readers](Task1output.png)
+   ![alt text for screen readers](/Task1output.png)
 
 #### Create a Bash script to find the largest element of a given array of integers.
 
