@@ -129,7 +129,7 @@ echo "maximum is " $max
 
    ​
 
-   ![alt text for screen readers](Task2output.png)
+   ![alt text for screen readers](\Task2output.png)
 
 ####Create a Bash script to separate 0s and 1s from a given array of values 0 and 1.
 
