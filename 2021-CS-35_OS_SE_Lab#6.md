@@ -69,8 +69,8 @@ echo "maximum is " $maxElement
 
     ​
 
-   ![alt text for screen readers]((..\Task1Output.png))
-   ![alt text for screen readers]((..\Task1output.png))
+   ![alt text for screen readers](https://github.com/MS1034/OS-LAB/blob/main/Task1Output.png)
+   ![alt text for screen readers](..\Task1output.png)
    ![alt text for screen readers]((..\Task2otput.png))
    ![alt text for screen readers]((..\imges\Task2Output.png))
    ![alt text for screen readers]((..\Imges\Task2Output.png))
